@@ -68,12 +68,12 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="✪ʟɪꜰᴇ✪",
-                url=f"https://t.me/Jani_Bot_Support",
+                text="𝗢𝘄𝗻𝗲𝗿  💬",
+                url=f"https://t.me/RAM_HACKER_RP",
             ),
             InlineKeyboardButton(
-                text="✪ᴊᴀɴɴ✪",
-                url=f"https://t.me/Jani_Bot_Support",
+                text=" 𝗦𝘂𝗽𝗽𝗼𝗿𝘁  💬",
+                url=f"https://t.me/+ZInYo4WtbRU0NzU1",
             ),
         ],
         [
@@ -100,16 +100,16 @@ def stream_markup(_, chat_id):
                  [
             InlineKeyboardButton(
 
-                text="✪ʟɪꜰᴇ✪",
+                text="𝗨𝗽𝗱𝗮𝘁𝗲",
 
-                url=f"https://t.me/CRAZY_OP_01",
+                url=f"https://t.me/Jani_RP",
 
             ),
             InlineKeyboardButton(
 
-                text="✪ᴊᴀɴɴ✪",
+                text=" 𝗦𝘂𝗽𝗽𝗼𝗿𝘁  💬",
 
-                url=f"https://t.me/PURVI_SUPPORT",
+                url=f"https://t.me/+ZInYo4WtbRU0NzU1",
 
             ),
         ],
