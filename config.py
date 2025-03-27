@@ -12,9 +12,9 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME","RAM_HACKER_TG")
+OWNER_USERNAME = getenv("OWNER_USERNAME","RAM_HACKER_RP")
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "purvi_music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Jani_Music_Robot")
 # Don't Add style font 
 BOT_NAME = getenv("BOT_NAME" , "Shizu")
 #get Your Assistant User name
@@ -46,8 +46,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Jani_Bot_Support")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Jani_Bot_Support")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+ZInYo4WtbRU0NzU1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+ZInYo4WtbRU0NzU1")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -121,10 +121,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/58e1e93e1e90a4e99dc2a.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/kd8gbd.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/00360393a15daf7fc4e9d.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/kd8gbd.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/78ac6fc48e240895e5ec8.jpg"
 STATS_IMG_URL = "https://graph.org/file/6abe3a913bf645b5b89ce.jpg"
